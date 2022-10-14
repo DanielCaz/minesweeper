@@ -1,0 +1,15 @@
+export const enum TileValue {
+  Unopened,
+  One,
+  Two,
+  Three,
+  Four,
+  Five,
+  Six,
+  Seven,
+  Eight,
+  Nine,
+  Empty,
+  Flagged,
+  Mine,
+}
